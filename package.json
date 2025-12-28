@@ -1,6 +1,6 @@
 {
-  "name": "html2pdf.js",
-  "version": "0.12.oklch.3",
+  "name": "@muratcankirdar/html2pdf.js",
+  "version": "0.12.oklch.4",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
   "types": "./type.d.ts",
@@ -9,16 +9,21 @@
     "/dist",
     "./type.d.ts"
   ],
-  "repository": "git@github.com:eKoopmans/html2pdf.js.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muratcankirdar/html2pdf.js.git"
+  },
   "keywords": [
     "javascript",
     "pdf-generation",
     "html",
     "client-side",
-    "canvas"
+    "canvas",
+    "oklch",
+    "daisyui"
   ],
   "author": {
-    "name": "Erik Koopmans",
+    "name": "Erik Koopmans + Murat Can Kırdar",
     "email": "erik@erik-koopmans.com",
     "url": "https://www.erik-koopmans.com"
   },
