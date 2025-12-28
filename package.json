@@ -1,6 +1,6 @@
 {
-  "name": "@muratcankirdar/html2pdf.js",
-  "version": "0.12.5",
+  "name": "html2pdf-oklch",
+  "version": "0.12.6",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
   "types": "./type.d.ts",
@@ -9,9 +9,9 @@
     "/dist",
     "./type.d.ts"
   ],
-  "repository": {
+    "repository": {
     "type": "git",
-    "url": "https://github.com/muratcankirdar/html2pdf.js.git"
+    "url": "git+https://github.com/muratcankirdar/html2pdf.js.git"
   },
   "keywords": [
     "javascript",
