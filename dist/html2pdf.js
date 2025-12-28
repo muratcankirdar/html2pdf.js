@@ -1,5 +1,5 @@
 /*!
- * @muratcankirdar/html2pdf.js v0.12-2-oklch.1
+ * @muratcankirdar/html2pdf.js v0.12.5
  * Copyright (c) 2025 Erik Koopmans
  * Released under the MIT License.
  */
