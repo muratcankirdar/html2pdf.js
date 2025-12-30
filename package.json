@@ -1,6 +1,6 @@
 {
-  "name": "html2pdf-oklch",
-  "version": "0.12.6",
+  "name": "@sensityai/html2pdf-oklch",
+  "version": "1.0.0",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
   "types": "./type.d.ts",
@@ -23,15 +23,11 @@
     "daisyui"
   ],
   "author": {
-    "name": "Erik Koopmans + Murat Can Kırdar",
-    "email": "erik@erik-koopmans.com",
-    "url": "https://www.erik-koopmans.com"
+    "name": "Sensityai",
+    "email": "support@sensity.ai"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/eKoopmans/html2pdf.js/issues"
-  },
-  "homepage": "https://ekoopmans.github.io/html2pdf.js/",
+  "homepage": "https://sensity.ai",
   "dependencies": {
     "html2canvas-pro": "^1.6.2",
     "jspdf": "^3.0.0"
