@@ -1,6 +1,6 @@
 {
   "name": "@sensityai/html2pdf-oklch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
   "types": "./type.d.ts",
@@ -9,7 +9,7 @@
     "/dist",
     "./type.d.ts"
   ],
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/sensityai/html2pdf-oklch.git"
   },
