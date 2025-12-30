@@ -1,5 +1,5 @@
 /*!
- * html2pdf-oklch v0.12.6
+ * @sensityai/html2pdf-oklch v1.0.1
  * Copyright (c) 2025 Erik Koopmans
  * Released under the MIT License.
  */
